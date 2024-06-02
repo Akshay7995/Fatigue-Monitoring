@@ -24,7 +24,7 @@ Functionality:
 
 (iv)Serial Communication: The system outputs messages to the serial monitor (set to 9600 baud) for debugging and monitoring purposes.
 
-Hardware Requirements:
+-->Hardware Requirements:
 
 *Arduino microcontroller
 
@@ -36,17 +36,17 @@ Hardware Requirements:
 
 *Jumper wires
 
-Software Requirements:
+-->Software Requirements:
 
 *Arduino IDE 
 
-Uploading the Code:
+-->Uploading the Code:
 
 *Install the Arduino IDE.
 
 *Connect your Arduino board to your computer.
 
-*Open the provided code (fatigue_monitoring.ino) in the Arduino IDE.
+*Open the provided code (Eye.ino) in the Arduino IDE.
 
 *Select your Arduino board and serial port from the IDE's tools menu.
 
