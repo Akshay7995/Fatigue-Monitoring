@@ -4,7 +4,7 @@ Fatigue Monitoring System with Arduino
 
 This project implements a basic fatigue monitoring system using an Arduino microcontroller to detect potential drowsiness based on sensor input.
 
-Functionality:
+--> Functionality:
 
 (i)Sensor: The system relies on a sensor (connected to pin sensorPin) to detect changes in a user's state. The specific sensor type and its behavior are not explicitly defined in the provided code.
 
@@ -24,7 +24,7 @@ Functionality:
 
 (iv)Serial Communication: The system outputs messages to the serial monitor (set to 9600 baud) for debugging and monitoring purposes.
 
--->Hardware Requirements:
+--> Hardware Requirements:
 
 *Arduino microcontroller
 
@@ -36,11 +36,11 @@ Functionality:
 
 *Jumper wires
 
--->Software Requirements:
+--> Software Requirements:
 
 *Arduino IDE 
 
--->Uploading the Code:
+--> Uploading the Code:
 
 *Install the Arduino IDE.
 
